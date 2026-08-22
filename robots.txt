@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-0gtmok.planet773fer.cfd/sitemap.xml
